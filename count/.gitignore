@@ -1,0 +1,18 @@
+*.log
+
+# DOS
+bin/DOS/*
+*.map
+*.mk
+*.mk1
+*.obj
+*.lk1
+*.sym
+*.exe
+
+# Linux
+bin/Linux
+*.d
+*.o
+
+
