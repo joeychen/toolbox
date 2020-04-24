@@ -1,7 +1,6 @@
 *.log
 
 # DOS
-bin/DOS/*
 *.map
 *.mk
 *.mk1
@@ -11,7 +10,6 @@ bin/DOS/*
 *.exe
 
 # Linux
-bin/Linux
 *.d
 *.o
 
